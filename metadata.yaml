@@ -1,0 +1,39 @@
+_repo: The-Story-of-the-Volsungs--Volsunga-Saga---with-Excerpts-from-the-Poetic-Edda_1152
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+  - agent_name: Eiríkr Magnússon
+    aliases:
+    - Eirikr Magnusson
+    - Magnússon, Eiríkr
+    - Eiríkur Magnússon
+    birthdate: 1833
+    deathdate: 1913
+    gutenberg_agent_id: '4526'
+    url: http://www.gutenberg.org/2009/agents/4526
+description: Wagner's Ring
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '1997-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sagas -- Translations into English'
+- !lcsh 'Siegfried (Legendary character) -- Romances'
+- !lcsh 'Eddas -- Translations into English'
+- !lcsh 'Nibelungen -- Romances'
+- !lcc 'PT'
+- GITenberg
+title: The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic Edda
+url: http://www.gutenberg.org/ebooks/1152
