@@ -1,5 +1,5 @@
 _repo: The-Story-of-the-Volsungs--Volsunga-Saga---with-Excerpts-from-the-Poetic-Edda_1152
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Morris, William
@@ -18,7 +18,12 @@ contributor:
     deathdate: 1913
     gutenberg_agent_id: '4526'
     url: http://www.gutenberg.org/2009/agents/4526
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: Wagner's Ring
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1152#The-Story-of-the-Volsungs--Volsunga-Saga---with-Excerpts-from-the-Poetic-Edda
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '1997-12-01'
 gutenberg_type: Text
